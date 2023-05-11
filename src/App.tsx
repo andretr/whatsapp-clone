@@ -5,7 +5,7 @@ function App() {
   
   return (
     <>
-     <div className='flex flex-row h-screen w-full bg-[#183b81]'>
+     <div className='flex flex-row h-screen w-full bg-[#f8f9fb]'>
       <ContactListComponent/>  
       <ConversationComponent/>
      </div>
